@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://burkweiss.github.io/article/01donau/</loc>
+    <lastmod>2017-07-02T18:10:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://burkweiss.github.io/article/donau/kelheim/</loc>
+    <lastmod>2018-07-01T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://burkweiss.github.io/article/donau/weltenburg/</loc>
+    <lastmod>2018-07-01T18:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://burkweiss.github.io/article/</loc>
+    <lastmod>2017-07-02T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://burkweiss.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://burkweiss.github.io/tags/hof/</loc>
+    <lastmod>2017-07-02T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://burkweiss.github.io/</loc>
+    <lastmod>2017-07-02T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://burkweiss.github.io/tags/kids/</loc>
+    <lastmod>2017-07-02T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://burkweiss.github.io/tags/</loc>
+    <lastmod>2017-07-02T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
