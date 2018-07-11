@@ -2,30 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hof on the road</title>
+<<<<<<< HEAD
     <link>https://burkweiss.github.io/tags/</link>
+=======
+    <link>http://burkweiss.github.io/tags/</link>
+>>>>>>> 1208b195939307ae44d8e32543ebbbbec09597f4
     <description>Recent content in Tags on Hof on the road</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sun, 02 Jul 2017 18:10:14 +0100</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="https://burkweiss.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://burkweiss.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 1208b195939307ae44d8e32543ebbbbec09597f4
     
     
     <item>
       <title>Hof</title>
+<<<<<<< HEAD
       <link>https://burkweiss.github.io/tags/hof/</link>
       <pubDate>Sun, 02 Jul 2017 18:10:14 +0100</pubDate>
       
       <guid>https://burkweiss.github.io/tags/hof/</guid>
+=======
+      <link>http://burkweiss.github.io/tags/hof/</link>
+      <pubDate>Sun, 02 Jul 2017 18:10:14 +0100</pubDate>
+      
+      <guid>http://burkweiss.github.io/tags/hof/</guid>
+>>>>>>> 1208b195939307ae44d8e32543ebbbbec09597f4
       <description></description>
     </item>
     
     <item>
       <title>Kids</title>
+<<<<<<< HEAD
       <link>https://burkweiss.github.io/tags/kids/</link>
       <pubDate>Sun, 02 Jul 2017 18:10:14 +0100</pubDate>
       
       <guid>https://burkweiss.github.io/tags/kids/</guid>
+=======
+      <link>http://burkweiss.github.io/tags/kids/</link>
+      <pubDate>Sun, 02 Jul 2017 18:10:14 +0100</pubDate>
+      
+      <guid>http://burkweiss.github.io/tags/kids/</guid>
+>>>>>>> 1208b195939307ae44d8e32543ebbbbec09597f4
       <description></description>
     </item>
     

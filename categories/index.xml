@@ -2,12 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hof on the road</title>
+<<<<<<< HEAD
     <link>https://burkweiss.github.io/categories/</link>
+=======
+    <link>http://burkweiss.github.io/categories/</link>
+>>>>>>> 1208b195939307ae44d8e32543ebbbbec09597f4
     <description>Recent content in Categories on Hof on the road</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     
+<<<<<<< HEAD
 	<atom:link href="https://burkweiss.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://burkweiss.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 1208b195939307ae44d8e32543ebbbbec09597f4
     
     
   </channel>
